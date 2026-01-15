@@ -417,3 +417,4 @@ c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\bin\Debug\net10.0\runt
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\bin\Debug\net10.0\runtimes\win\lib\net9.0\System.Windows.Extensions.dll
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.AssemblyReference.cache
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
+c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
