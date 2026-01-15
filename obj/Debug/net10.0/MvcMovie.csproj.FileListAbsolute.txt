@@ -21,7 +21,6 @@ c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\rjsm
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\scopedcss\bundle\MvcMovie.styles.css
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\scopedcss\projectbundle\MvcMovie.bundle.scp.css
-c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-b9sayid5wm-b9sayid5wm.gz
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\compressed\dqa1xiugtd-{0}-61n19gt1b8-61n19gt1b8.gz
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\compressed\6clnpnw2tb-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\compressed\gln79jq0fq-{0}-bqjiyaj88i-bqjiyaj88i.gz
@@ -418,3 +417,4 @@ c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\bin\Debug\net10.0\runt
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.AssemblyReference.cache
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\MvcMovie.csproj.Up2Date
 c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\MvcMovie.sourcelink.json
+c:\Users\abren\OneDrive\Área de Trabalho\CSE325\MvcMovie\obj\Debug\net10.0\compressed\8151r5ozgn-{0}-qmodxq0jfx-qmodxq0jfx.gz
